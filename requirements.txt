@@ -1,0 +1,2 @@
+# Narzędzie opiera się w pełni na bibliotece standardowej Pythona, 
+# dzięki czemu nie wymaga instalacji dodatkowych pakietów zewnętrznych.
