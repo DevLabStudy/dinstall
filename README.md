@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Linux-blue?style=for-the-badge&logo=linux" alt="Linux">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/license-Custom--Proprietary-red?style=for-the-badge" alt="License">
 </p>
 
 ---
