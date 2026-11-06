@@ -1,8 +1,33 @@
-Copyright (c) 2026 DevLabStudy
+DEVLABSTUDY SOURCE-AVAILABLE MOD-FRIENDLY LICENSE (DSAL-MOD-1.0)
+Copyright (c) 2026 Tobiasz Kajzer (DevLabStudy)
+All rights reserved.
 
-1. GRANT OF USE: You are free to download, view, and use the software "dinstall" for personal and non-commercial purposes.
-2. NO MODIFICATIONS: You are NOT allowed to modify, adapt, translate, or create derivative works based upon this software or any part of it.
-3. NO COMMERCIAL SALE: You are strictly prohibited from selling, sublicensing, renting, or monetizing this software, or bundling it into any commercial product or paid service.
-4. ATTRIBUTION: Redistributions must retain this notice and the original copyright.
+Zasady korzystania z oprogramowania, kodu źródłowego oraz narzędzi wchodzących 
+w skład niniejszego projektu (zwanego dalej "Oprogramowaniem").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+1. UDZIELENIE LICENCJI (DOZWOLONY UŻYTEK)
+Użytkownik otrzymuje prawo do:
+- Przeglądania, analizowania, studiowania oraz modyfikowania kodu źródłowego 
+  na własny użytek (do celów edukacyjnych, prywatnych i niekomercyjnych).
+- Uruchamiania i korzystania z oryginalnych lub zmodyfikowanych wersji Oprogramowania 
+  w środowisku domowym.
+
+2. WARUNKI MODYFIKACJI I ZAKAZY KOMERCYJNE
+- Wszelkie modyfikacje kodu źródłowego mogą być wykorzystywane wyłącznie lokalnie 
+  lub prywatnie. Publikowanie zmodyfikowanych wersji w publicznych repozytoriach 
+  wymaga wyraźnej zgody Autora.
+- Bez uprzedniej, pisemnej zgody Autora (Tobiasz Kajzer / DevLabStudy) ZABRANIA SIĘ:
+  a) Wykorzystywania Oprogramowania (lub jego zmodyfikowanych wersji) w jakiejkolwiek 
+     działalności komercyjnej, zarobkowej lub biznesowej.
+  b) Oferowania Oprogramowania jako usługi w chmurze (SaaS), API commercial lub 
+     zarządzanego hostingu komercyjnego.
+  c) Sprzedaży, redystrybucji lub sublicencjonowania Oprogramowania w celach zarobkowych.
+
+3. INFORMACJE O AUTORZE
+Każda kopia Oprogramowania lub jego fragmentu musi zawierać niniejszą informację 
+o prawach autorskich oraz wskazanie Autora (Tobiasz Kajzer / DevLabStudy).
+
+4. BRAK GWARANCJI
+Oprogramowanie jest dostarczane w stanie takim, w jakim jest ("AS IS"), 
+bez jakiejkolwiek gwarancji. Autor nie ponosi odpowiedzialności za szkody wynikłe 
+z jego użytkowania.
